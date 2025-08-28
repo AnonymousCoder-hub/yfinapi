@@ -1,0 +1,25 @@
+{
+  "name": "indian-stocks-api",
+  "version": "1.0.0",
+  "description": "Comprehensive Indian Stock Market Data API using yfinance",
+  "main": "api/index.py",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "indian-stocks",
+    "nse",
+    "bse",
+    "stock-market",
+    "api",
+    "yfinance",
+    "vercel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
