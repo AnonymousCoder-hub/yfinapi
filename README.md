@@ -1,6 +1,6 @@
 # 🇮🇳 Indian Stocks Data API
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Findian-stocks-api&project-name=indian-stocks-api&repository-name=indian-stocks-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAnonymousCoderHub%2Findian-stocks-api&project-name=indian-stocks-api&repository-name=indian-stocks-api)
 
 A comprehensive **Indian Stock Market Data API** built with Python, yfinance, and deployable on Vercel. Get real-time and historical data for NSE & BSE stocks, market indices, trending stocks, gainers/losers, and much more!
 
